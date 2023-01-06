@@ -4,15 +4,15 @@
 
 {
          "name": "TH-FREE-001",
-         "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/Free-001.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-012.ovpn"
       },
 {
          "name": "TH-FREE-002",
-         "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/Free-002.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-012.ovpn"
       },
 {
          "name": "TH-FREE-003",
-         "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/Free-003.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-012.ovpn"
       },
 {
          "name": "TH-FREE-004",
@@ -23,7 +23,7 @@
          "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/TH-VIP-015.ovpn"
       }
 ],
-"message":"Update အဆင့္ျမင့္ရန္နိမ့္ပါ\nAll New Servers\nVersion: 1\n\nConfig By:Free-ChitThu ",
+"message":"Update အဆင့္ျမင့္ရန္နိမ့္ပါ\nAll New Servers\nVersion: 2\n\nConfig By:Free-ChitThu ",
    "title":"Add DTAC&TRUE auto update file" ,
    "version": 1
 }
